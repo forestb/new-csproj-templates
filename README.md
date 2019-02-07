@@ -14,6 +14,12 @@ When creating a new project, look for the project type.
 
 ![](./assets/readme1.png)
 
+... and don't forget to tell Visual Studio *not* to use `packages.config` anymore.
+
+`Tools` -> `Options` -> `NuGet Package Manager`
+
+![](./assets/readme2.png)
+
 # Alternative(s)
 
 The following commands can serve as a substitute for the templates in this repository:
