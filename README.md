@@ -14,7 +14,7 @@ When creating a new project, look for the project type.
 
 ![](./assets/readme1.png)
 
-... and don't forget to tell Visual Studio *not* to use `packages.config` anymore.
+... and don't forget to tell Visual Studio *not* to use `packages.config` by default anymore.
 
 `Tools` -> `Options` -> `NuGet Package Manager`
 
