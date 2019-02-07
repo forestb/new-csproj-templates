@@ -8,7 +8,9 @@ Templates for new .csproj files, because Visual Studio doesn't support them by d
 
 # Usage
 
-Download the templates in `~\templates\` and copy (import) them into your Visual Studio 2017 Project Templates folder -  `C:\Users\<user>\OneDrive\Documents\Visual Studio 2017\Templates\ProjectTemplates`.
+Download the templates in `~\templates\` and copy (import) the `.zip` files into your Visual Studio 2017 Project Templates folder -  `C:\Users\<user>\OneDrive\Documents\Visual Studio 2017\Templates\ProjectTemplates`. 
+
+*Note: do not unzip them - simply place the `.zip` files in that directory.*
 
 When creating a new project, look for the project type.
 
