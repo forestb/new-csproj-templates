@@ -2,11 +2,15 @@
 Templates for new .csproj files, because Visual Studio doesn't support them by default, yet.
 
 - [Usage](#usage)
+  - [Download](#download)
+  - [Use](#use)
 - [Alternative(s)](#alternatives)
 - [Reference](#reference)
   - [Project Type Examples](#project-type-examples)
 
 # Usage
+
+## Download
 
 1. Download the templates in `~\templates\` (or clone this repository)
 2. Copy the `.zip` files into your Visual Studio 2017/2019 Project Templates folder, found at...
@@ -17,6 +21,9 @@ Templates for new .csproj files, because Visual Studio doesn't support them by d
 
 *Note: do not unzip them - simply place the `.zip` files in that directory.*
 
+![](./assets/readme3.png)
+
+## Use 
 When creating a new project, look for the project type.
 
 ![](./assets/readme1.png)
