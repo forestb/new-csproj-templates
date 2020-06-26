@@ -18,6 +18,8 @@ Templates for new .csproj files, because Visual Studio doesn't support them by d
 - `%USERPROFILE%\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual C#`
 - `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#`
 
+**Note: The target path has changed for Visual Studio 2019 - `C:\Users\<user>\Documents\Visual Studio 2019\Templates\ProjectTemplates`. They got directly in this directory - not in a "C#" subdirectory.**
+
 
 *Note: do not unzip them - simply place the `.zip` files in that directory.*
 
